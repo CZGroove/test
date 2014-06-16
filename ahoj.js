@@ -1,1 +1,1 @@
-document.write("Nazdar!");
+document.write("Zdarec!");
